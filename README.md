@@ -449,4 +449,24 @@ Tela referente ao agente financeiro com algumas interações realizadas:
 > [!TIP]
 > Observação: Demais imagens das interações e do Projeto Final implementado pelo Lovable encontram-se no Diretório Imagens deste repositório
 
+## 4. Links para as interações com os agentes de IA:
+[Interações Copilot](https://copilot.microsoft.com/shares/i6tJctEa8uDusXLZ6Zmvx)
+
+[Projeto Lovable](https://lovable.dev/projects/686f8780-9d13-40c5-8549-1ee409c6e5a3?magic_link=mc_5c794846-8b0d-479a-9cc0-093174d40901)
+
+## 5. Resumo das funcionalidades do aplicativo de finanças pessoais:
+
+O aplicativo de finanças pessoais implementado apresenta telas de login/cadastro que exigem a inserção de um e-mail seguido de uma senha contendo 6 dígitos. Após ser autenticado nas telas anteriores, é aberto um dashboard que exibe as receitas, despesas, saldo final e, por fim, a possibilidade de conversar com um chat de IA que representa um consultor financeiro. Este chat permite registrar receitas, despesas e fornecer recomendações. Destaca-se que, em seu estado atual, a aplicação carece de conexão com banco de dados. Dessa forma, ainda não é possível salvar as receitas, despesas e saldo informado.
+
+## 6. Reflexão sobre o processo:
+
+### 6.1 O que funcionou bem?
+Os prompts utilizados apresentaram respostas satisfatórias dos agentes de IA utilizados (Copilot e Lovable). O processo de criação do aplicativo foi simples e fácil. Ressalta-se que a clareza e coesão utilizada para a geração dos prompts é essencial para um retorno satisfatório dos agentes utilizados.
+
+### 6.2 O que não funcionou como esperado?
+Esperava-se que a aplicação gerada pelo Lovable fosse capaz de registrar as receitas, despesas e saldo fornecidos pela conversa com o agente financeiro. Porém, isso não foi possível devido à falta de implementação de um banco de dados. Além disso, destaca-se que o projeto implementado é representativo de uma funcionalidade de um projeto maior, de modo que o algoritmo implementado pelo Lovable não é completamente autônomo, conforme pode ser visto pela necessidade de integração com um banco de dados.
+
+### 6.3 O que aprendeu sobre conversas com IAs?
+Aprendeu-se que é necessário possuir clareza e coesão durante a criação de prompts, e que as respostas geradas pelos agentes de IA necessitam de revisão e supervisão constantes por seres humanos. Dessa forma, é possível utilizar estas ferramentas em seu pleno potencial.
+
 
