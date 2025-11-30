@@ -1,4 +1,5 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# Entregável Leonardo Maximo Silva
+# 💸 App de Organização de Finanças Pessoais com Vibe Coding - Descrição do Objetivo
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
